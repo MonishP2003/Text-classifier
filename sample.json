@@ -1,0 +1,268 @@
+{
+  "data": [
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Mean",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Median",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Mode",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Standard deviation",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Variance",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Range",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Inter-quartile range",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Percentile",
+      "params_mandatory": [
+        "Age",
+        "per"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Skewness",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Descriptive Statistics",
+      "Sub_Topic": "Kurtosis",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Inferential Statistics",
+      "Sub_Topic": "T-test",
+      "params_mandatory": [
+        "Age",
+        "Fare",
+        "los"
+      ],
+      "params_optional": [],
+      " inputs": 2,
+      " prediction": 0
+    },
+    {
+      "Topic": "Inferential Statistics",
+      "Sub_Topic": "Z-test",
+      "params_mandatory": [
+        "Age",
+        "Fare",
+        "los",
+        "population_mean"
+      ],
+      "params_optional": [],
+      " inputs": 2,
+      " prediction": 0
+    },
+    {
+      "Topic": "Inferential Statistics",
+      "Sub_Topic": "Chi-square test",
+      "params_mandatory": [
+        "Age",
+        "Fare",
+        "los"
+      ],
+      "params_optional": [],
+      " inputs": 2,
+      " prediction": 0
+    },
+    {
+      "Topic": "Inferential Statistics",
+      "Sub_Topic": "Confidence Interval",
+      "params_mandatory": [
+        "Age",
+        "cl"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Inferential Statistics",
+      "Sub_Topic": "ANOVA test",
+      "params_mandatory": [
+        "Age",
+        "Fare",
+        "los"
+      ],
+      "params_optional": [],
+      " inputs": 2,
+      " prediction": 0
+    },
+    {
+      "Topic": "Probability distributions",
+      "Sub_Topic": "Normal distribution",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Probability distributions",
+      "Sub_Topic": "Binomial distribution",
+      "params_mandatory": [
+        "Age",
+        "n",
+        "p"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Probability distributions",
+      "Sub_Topic": "Poisson distribution",
+      "params_mandatory": [
+        "Age",
+        "mu"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Probability distributions",
+      "Sub_Topic": "Exponential distribution",
+      "params_mandatory": [
+        "Age"
+      ],
+      "params_optional": [],
+      " inputs": 1,
+      " prediction": 0
+    },
+    {
+      "Topic": "Sampling techniques",
+      "Sub_Topic": "Simple random sampling",
+      "params_mandatory": [],
+      "params_optional": [],
+      " inputs": 0,
+      " prediction": 0
+    },
+    {
+      "Topic": "Sampling techniques",
+      "Sub_Topic": "Stratified sampling",
+      "params_mandatory": [],
+      "params_optional": [],
+      " inputs": 0,
+      " prediction": 0
+    },
+    {
+      "Topic": "Sampling techniques",
+      "Sub_Topic": "Systematic sampling",
+      "params_mandatory": [
+        "step"
+      ],
+      "params_optional": [],
+      " inputs": 0,
+      " prediction": 0
+    },
+    {
+      "Topic": "Sampling techniques",
+      "Sub_Topic": "Cluster sampling",
+      "params_mandatory": [
+        "num"
+      ],
+      "params_optional": [],
+      " inputs": 0,
+      " prediction": 0
+    },
+    {
+      "Topic": "Non-parametric statistics",
+      "Sub_Topic": "Mann-Whitney U test",
+      "params_mandatory": [
+        "Age",
+        "Fare",
+        "los"
+      ],
+      "params_optional": [],
+      " inputs": 2,
+      " prediction": 0
+    },
+    {
+      "Topic": "Non-parametric statistics",
+      "Sub_Topic": "Kruskal-Wallis test",
+      "params_mandatory": [
+        "Age",
+        "Fare",
+        "los"
+      ],
+      "params_optional": [],
+      " inputs": 2,
+      " prediction": 0
+    }
+  ]
+}
